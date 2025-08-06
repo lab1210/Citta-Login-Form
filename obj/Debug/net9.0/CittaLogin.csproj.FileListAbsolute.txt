@@ -21,7 +21,6 @@ C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\scopedcss\bundle\CittaLogin.styles.css
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\scopedcss\projectbundle\CittaLogin.bundle.scp.css
-C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\klm02lm759-b9sayid5wm.gz
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\riyju3qbyk-61n19gt1b8.gz
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\1kdfyo7qmq-xtxxf3hu2r.gz
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\wl280s1nz3-bqjiyaj88i.gz
@@ -83,8 +82,6 @@ C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\37hekel1oi-muycvpuwrr.gz
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\lnrkiu6w67-87fc7y1x7t.gz
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\dsi7d1tusx-mlv21k5csn.gz
-C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\cgb413tuv9-x203o3qk9b.gz
-C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\6sieepv1ob-x203o3qk9b.gz
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\staticwebassets.development.json
@@ -94,3 +91,7 @@ C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\CittaLogin.pdb
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\CittaLogin.genruntimeconfig.cache
 C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\ref\CittaLogin.dll
+C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\CittaLogin.sourcelink.json
+C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\cgb413tuv9-g8aiglzond.gz
+C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\6sieepv1ob-g8aiglzond.gz
+C:\Users\Oladeji Omolabake\Documents\Work\Citta_Login\CittaLogin\obj\Debug\net9.0\compressed\klm02lm759-iv9efuvtw0.gz

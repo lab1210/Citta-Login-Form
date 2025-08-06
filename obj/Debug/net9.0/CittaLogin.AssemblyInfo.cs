@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CittaLogin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+328a6729d1a54c9b656b09bf7ab84af8c6c35858")]
 [assembly: System.Reflection.AssemblyProductAttribute("CittaLogin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CittaLogin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

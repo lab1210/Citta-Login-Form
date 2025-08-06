@@ -1,31 +1,82 @@
-html {
-  font-size: 14px;
+:root {
+  /* Background gradient colors */
+  --gradient-start: #3b82f6; /* blue-500 */
+  --gradient-middle: #06b6d4; /* cyan-500 */
+  --gradient-end: #0d9488; /* teal-500 */
+
+  /* Text colors */
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.8);
+  --text-placeholder: rgba(255, 255, 255, 0.5);
+
+  /* Accent colors */
+  --accent-primary: #f58324;
+  --accent-primary-hover: rgba(245, 131, 36, 0.9);
+
+  /* Form colors */
+  --form-bg: rgba(255, 255, 255, 0.2);
+  --form-border: rgba(255, 255, 255, 0.3);
+  --form-focus-ring: rgba(255, 255, 255, 0.5);
+
+  /* Icon colors */
+  --icon-primary: rgba(245, 131, 36, 0.9);
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+/* Make sure these selectors are specific enough */
+.login-container.bg-gradient-custom {
+  background-image: linear-gradient(
+    to right,
+    var(--gradient-start),
+    var(--gradient-middle),
+    var(--gradient-end)
+  ) !important;
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+.login-form.bg-form-custom {
+  background-color: var(--form-bg) !important;
+  border-color: var(--form-border) !important;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+.login-container .text-primary {
+  color: var(--text-primary) !important;
 }
 
-body {
-  margin-bottom: 60px;
+.login-container .text-secondary {
+  color: var(--text-secondary) !important;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+.login-container .input-custom {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border-color: var(--form-border) !important;
+  color: var(--text-primary) !important;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
+.login-container .input-custom:focus {
+  outline: none !important;
+  --tw-ring-color: var(--form-focus-ring) !important;
+}
+
+.login-container .input-custom::placeholder {
+  color: var(--text-placeholder) !important;
+}
+
+.login-container .btn-primary {
+  background-color: var(--accent-primary) !important;
+  color: var(--text-primary) !important;
+}
+
+.login-container .btn-primary:hover {
+  background-color: var(--accent-primary-hover) !important;
+}
+
+.login-container .link-custom {
+  color: var(--text-primary) !important;
+}
+
+.login-container .link-custom:hover {
+  color: var(--accent-primary-hover) !important;
+}
+
+.login-container .icon-primary {
+  color: var(--icon-primary) !important;
 }
